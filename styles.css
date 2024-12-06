@@ -1,9 +1,12 @@
+body{
+    background-color: brown;
+}
 h1{
     background-color: green;
     width: 150px;
     color: azure;
-    
 }
-body{
-    background-color: brown;
+h2{
+    background-color: blue;
 }
+
